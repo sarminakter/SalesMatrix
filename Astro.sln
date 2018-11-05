@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro", "Astro\Astro.csproj", "{374BE6F6-A58F-4430-A642-C23D2044B663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.Entity", "Astro.Entity\Astro.Entity.csproj", "{3E3CEE85-4532-420E-8BCC-28E47948824D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.Service", "Astro.Service\Astro.Service.csproj", "{C5F4E97B-F29D-4746-8E7F-EC8726B389C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.WebApi", "Astro.WebApi\Astro.WebApi.csproj", "{AEC93590-231F-49EA-826D-8D99BFFDE61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374BE6F6-A58F-4430-A642-C23D2044B663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374BE6F6-A58F-4430-A642-C23D2044B663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374BE6F6-A58F-4430-A642-C23D2044B663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374BE6F6-A58F-4430-A642-C23D2044B663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3CEE85-4532-420E-8BCC-28E47948824D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3CEE85-4532-420E-8BCC-28E47948824D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3CEE85-4532-420E-8BCC-28E47948824D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3CEE85-4532-420E-8BCC-28E47948824D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F4E97B-F29D-4746-8E7F-EC8726B389C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F4E97B-F29D-4746-8E7F-EC8726B389C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F4E97B-F29D-4746-8E7F-EC8726B389C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F4E97B-F29D-4746-8E7F-EC8726B389C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC93590-231F-49EA-826D-8D99BFFDE61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC93590-231F-49EA-826D-8D99BFFDE61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC93590-231F-49EA-826D-8D99BFFDE61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC93590-231F-49EA-826D-8D99BFFDE61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD1C339-0E3A-43EB-A5BE-B64E15097721}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://abalaminshaon.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Astro.Entity\\Astro.Entity.csproj
+		SccProjectName1 = Astro.Entity
+		SccLocalPath1 = Astro.Entity
+		SccProjectUniqueName2 = Astro.Service\\Astro.Service.csproj
+		SccProjectName2 = Astro.Service
+		SccLocalPath2 = Astro.Service
+		SccProjectUniqueName3 = Astro.WebApi\\Astro.WebApi.csproj
+		SccProjectName3 = Astro.WebApi
+		SccLocalPath3 = Astro.WebApi
+		SccProjectUniqueName4 = Astro\\Astro.csproj
+		SccProjectName4 = Astro
+		SccLocalPath4 = Astro
+	EndGlobalSection
+EndGlobal
